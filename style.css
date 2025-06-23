@@ -1,4 +1,4 @@
-/* ===== THEMING & CUSTOMIZATION ===== */
+﻿/* ===== THEMING & CUSTOMIZATION ===== */
 :root {
     --bg-gradient: linear-gradient(135deg, #2c1a3b 0%, #1a0f24 100%);
     --player-bg: rgba(255, 255, 255, 0.07);
@@ -885,41 +885,6 @@ body {
 @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
-}
-
-@keyframes shimmer {
-    0%, 100% { transform: translateX(-100%); }
-    50% { transform: translateX(100%); }
-}
-
-@keyframes scrollbarPulse {
-    0%, 100% { 
-        box-shadow: 
-            0 0 40px rgba(140, 55, 243, 0.8),
-            0 0 70px rgba(171, 91, 255, 0.4),
-            0 0 100px rgba(140, 55, 243, 0.2),
-            inset 0 2px 0 rgba(255, 255, 255, 0.4),
-            inset 0 -2px 0 rgba(0, 0, 0, 0.3);
-    }
-    50% { 
-        box-shadow: 
-            0 0 50px rgba(140, 55, 243, 0.9),
-            0 0 80px rgba(171, 91, 255, 0.5),
-            0 0 120px rgba(140, 55, 243, 0.3),
-            inset 0 2px 0 rgba(255, 255, 255, 0.5),
-            inset 0 -2px 0 rgba(0, 0, 0, 0.4);
-    }
-}
-
-@keyframes scrollbarGlow {
-    0% { 
-        opacity: 0.6;
-        box-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
-    }
-    100% { 
-        opacity: 1;
-        box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
-    }
 }
 
 /* ===== RESPONSIVE DESIGN ===== */
@@ -1870,7 +1835,7 @@ body.theme-sunset .song-item {
         inset 0 2px 0 rgba(255, 255, 255, 0.4),
         inset 0 -2px 0 rgba(0, 0, 0, 0.3);
     border-color: rgba(255, 255, 255, 0.35);
-    animation: scrollbarPulse 2s ease-in-out infinite;
+    animation: pulse 2s ease-in-out infinite;
 }
 
 ::-webkit-scrollbar-thumb:hover::before {
@@ -1879,7 +1844,7 @@ body.theme-sunset .song-item {
 
 ::-webkit-scrollbar-thumb:hover::after {
     opacity: 1;
-    animation: scrollbarGlow 1.5s ease-in-out infinite alternate;
+    animation: glow 1.5s ease-in-out infinite alternate;
 }
 
 ::-webkit-scrollbar-corner {
@@ -2184,7 +2149,7 @@ body.theme-sunset ::-webkit-scrollbar-thumb:hover {
     50% { transform: translateX(100%); }
 }
 
-@keyframes scrollbarPulse {
+@keyframes pulse {
     0%, 100% { 
         box-shadow: 
             0 0 40px rgba(140, 55, 243, 0.8),
@@ -2203,7 +2168,7 @@ body.theme-sunset ::-webkit-scrollbar-thumb:hover {
     }
 }
 
-@keyframes scrollbarGlow {
+@keyframes glow {
     0% { 
         opacity: 0.6;
         box-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
@@ -2355,7 +2320,7 @@ body.theme-sunset ::-webkit-scrollbar-thumb:hover {
         inset 0 3px 0 rgba(255, 255, 255, 0.6),
         inset 0 -3px 0 rgba(0, 0, 0, 0.5);
     border-color: rgba(255, 255, 255, 0.5);
-    animation: scrollbarPulse 2s ease-in-out infinite, scrollbarGlow 1.5s ease-in-out infinite alternate;
+    animation: legendaryPulse 1.5s ease-in-out infinite, legendaryGlow 2s ease-in-out infinite alternate;
     filter: drop-shadow(0 15px 30px rgba(0, 0, 0, 0.4)) brightness(1.2);
 }
 
