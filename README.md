@@ -168,7 +168,7 @@ let settings = {
 El reproductor incluye una colección diversa de canciones con letras sincronizadas:
 
 1. **Bandida** - C.R.O (Bardero)
-2. **Perfect** - Ed Sheeran (÷ Divide)
+2. **Hotel** - Montel Fish (÷ Divide)
 3. **One of the Girls** - The Weeknd (The Highlights)
 4. **SleepMode** - Bones (TSoftwareUpdate1.0)
 5. **Let Go** - Ark Patrol (Soundcloud EPs)
@@ -253,8 +253,8 @@ El proyecto no solo cumple con los requisitos funcionales de un reproductor de m
 
 ## 🎯 Entregable Final
 
-Repositorio: [GitHub – Arutia Music Player](https://github.com/DanielSantiagoV/arutia-music.git)  
-Despliegue: [GitHub Pages – Arutia Music](https://danielsantiagov.github.io/arutia-music/)
+Repositorio: [GitHub – daaaaaniel Music Player](https://github.com/DanielSantiagoV/daaaaaniel_music)  
+Despliegue: [GitHub Pages – daaaaaniel Music](https://danielsantiagov.github.io/daaaaaniel_music/)
 
 ---
 
