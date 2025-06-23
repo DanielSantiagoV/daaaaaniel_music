@@ -37,3 +37,48 @@
             </button>
         </div>
     </div>
+
+    <!-- Home Page -->
+    <div id="homePage" class="page">
+        <div class="home-header">
+            <div class="header-content">
+                <div class="brand-section">
+                    <div class="brand-icon">
+                        <i class="fas fa-music"></i>
+                    </div>
+                    <div class="brand-text">
+                        <h1>daaanieel</h1>
+                        <p>Music Player</p>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button id="settingsBtn" class="header-btn">
+                        <i class="fas fa-cog"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <main class="home-main">
+            <div class="section-header">
+                <h2>Your Music Library</h2>
+                <p>Select a track to start your journey</p>
+            </div>
+            
+            <div class="search-container">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Search songs, artists, or albums...">
+                </div>
+            </div>
+
+            <div class="songs-container">
+            <ul id="songList" class="song-list">
+                    <li class="loading-songs">
+                        <div class="loading-spinner"></div>
+                        <span>Loading your music...</span>
+                    </li> 
+            </ul>
+            </div>
+        </main>
+    </div>
