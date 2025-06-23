@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daaaaaniell - Music Player</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Video Background with Default -->
+    <div class="video-background-container">
+        <video id="backgroundVideo" autoplay loop muted playsinline>
+            <source src="videos/letgo.mp4" type="video/mp4">
+            </video>
+        <div class="video-overlay"></div>
+    </div>
+
+    <!-- Welcome Screen -->
+    <div id="welcomeScreen" class="welcome-screen active">
+        <div class="welcome-content">
+            <div class="logo-container">
+                <div class="logo-icon">
+                    <i class="fas fa-music"></i>
+                </div>
+                <h1 class="app-title">daaaaaniel</h1>
+                <p class="app-subtitle">Music Player</p>
+            </div>
+            <div class="welcome-description">
+                <p>Discover your perfect soundtrack</p>
+                <p>Experience music like never before</p>
+            </div>
+            <button id="enterAppBtn" class="enter-app-btn">
+                <span>Enter Music World</span>
+                <i class="fas fa-arrow-right"></i>
+            </button>
+        </div>
+    </div>
