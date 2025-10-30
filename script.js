@@ -108,72 +108,72 @@ let songs = [
         audioSrc: "audio/Mala Vida.mp3",
         videoBgSrc: "videos/Mala Vida.mp4",
         lyrics: [
-            { time: 32.0, text: "Bandida, bandida" },
-            { time: 38.0, text: "No me odies porque llevo mala vida, hey vida" },
-            { time: 44.0, text: "Estoy llegando al final de mi partida, partida" },
-            { time: 50.0, text: "Déjame irte a buscar" },
-            { time: 56.0, text: "Déjame ir a algún bar" },
-            { time: 62.0, text: "Déjame dispararles" },
-            { time: 68.0, text: "Bandida, bandida" },
-            { time: 74.0, text: "No me odies porque llevo mala vida, hey vida" },
-            { time: 80.0, text: "Estoy llegando al final de mi partida, partida" },
-            { time: 86.0, text: "Déjame irte a buscar" },
-            { time: 92.0, text: "Déjame ir a algún bar" },
-            { time: 98.0, text: "Déjame dispararles" },
-            { time: 104.0, text: "Tengo vitamina y con eso me basta" },
-            { time: 110.0, text: "Y un así en la manga por si no me alcanza" },
-            { time: 116.0, text: "Ya no juego si primero no veo plata" },
-            { time: 122.0, text: "Como zorro viejo no pierdo las mañas" },
-            { time: 128.0, text: "Siempre me mantuve fino en las jugadas nunca me quebré yo domino mi parla" },
-            { time: 134.0, text: "Mi polvo en la mesa blanco como perla" },
-            { time: 140.0, text: "Si te gusta puta tenes que pagarla" },
-            { time: 146.0, text: "Ya no pierdo el tiempo con toda esa mierda" },
-            { time: 152.0, text: "No me juegues mal que mis wachos se encargan" },
-            { time: 158.0, text: "Hace tiempo que me sigue esa bandida" },
-            { time: 164.0, text: "Por lo menos ahora vivo pa' contarla" },
-            { time: 170.0, text: "Éramos amigos pero nos peleamos" },
-            { time: 176.0, text: "Porque dos bandidos saben de ese mambo" },
-            { time: 182.0, text: "Ahora es más bandida y ya domina el rango" },
-            { time: 188.0, text: "Sabe bien que volveremos a encontrarnos" },
-            { time: 194.0, text: "Bandida, bandida" },
-            { time: 200.0, text: "No me odies porque llevo mala vida, hey vida" },
-            { time: 206.0, text: "Estoy llegando al final de mi partida, partida" },
-            { time: 212.0, text: "Déjame irte a buscar" },
-            { time: 218.0, text: "Déjame ir a algún bar" },
-            { time: 224.0, text: "Déjame dispararles" },
-            { time: 230.0, text: "Bandida, bandida" },
-            { time: 236.0, text: "No me odies porque llevo mala vida, hey vida" },
-            { time: 242.0, text: "Estoy llegando al final de mi partida, partida" },
-            { time: 248.0, text: "Déjame irte a buscar" },
-            { time: 254.0, text: "Déjame ir a algún bar" },
-            { time: 260.0, text: "Déjame dispararles" },
-            { time: 266.0, text: "Ella es una bandida, bandida" },
-            { time: 272.0, text: "Es mía, otro no la puede tener" },
-            { time: 278.0, text: "No la puede tener" },
-            { time: 284.0, text: "No, no, no" },
-            { time: 290.0, text: "Y me mira, y me mira" },
-            { time: 296.0, text: "Te juro que siempre voy a caer" },
-            { time: 302.0, text: "Y voy a volver, y voy a tenerte" },
-            { time: 308.0, text: "Bandida, bandida" },
-            { time: 314.0, text: "Decime cuando te volveré a ver" },
-            { time: 320.0, text: "(Cuando te volveré a ver)" },
-            { time: 326.0, text: "Nau, nau, nau" },
-            { time: 332.0, text: "Y transpira, transpira" },
-            { time: 338.0, text: "Cuando estoy en mi cama dándole" },
-            { time: 344.0, text: "Esta matándome" },
-            { time: 350.0, text: "No, no, no" },
-            { time: 356.0, text: "Bandida, bandida" },
-            { time: 362.0, text: "No me odies porque llevo mala vida, hey vida" },
-            { time: 368.0, text: "Estoy llegando al final de mi partida, partida" },
-            { time: 374.0, text: "Déjame irte a buscar" },
-            { time: 380.0, text: "Déjame ir a algún bar" },
-            { time: 386.0, text: "Déjame dispararles" },
-            { time: 392.0, text: "Bandida, bandida" },
-            { time: 398.0, text: "No me odies porque llevo mala vida, hey vida" },
-            { time: 404.0, text: "Estoy llegando al final de mi partida, partida" },
-            { time: 410.0, text: "Déjame irte a buscar" },
-            { time: 416.0, text: "Déjame ir a algún bar" },
-            { time: 422.0, text: "Déjame dispararles" }
+            { time: 31.940, text: "Bandida, bandida" },
+            { time: 34.600, text: "No me odies porque llevo mala vida, hey vida" },
+            { time: 37.900, text: "Estoy llegando al final de mi partida, partida" },
+            { time: 41.680, text: "Déjame irte a buscar" },
+            { time: 43.200, text: "Déjame ir a algún bar" },
+            { time: 45.600, text: "Déjame dispararles" },
+            { time: 47.500, text: "Bandida, bandida" },
+            { time: 50.220, text: "No me odies porque llevo mala vida, hey vida" },
+            { time: 53.240, text: "Estoy llegando al final de mi partida, partida" },
+            { time: 57.300, text: "Déjame irte a buscar" },
+            { time: 59.000, text: "Déjame ir a algún bar" },
+            { time: 61.220, text: "Déjame dispararles" },
+            { time: 63.240, text: "Tengo vitamina y con eso me basta" },
+            { time: 66.020, text: "Y un así en la manga por si no me alcanza" },
+            { time: 67.280, text: "Ya no juego si primero no veo plata" },
+            { time: 69.240, text: "Como zorro viejo no pierdo las mañas" },
+            { time: 71.180, text: "Siempre me mantuve fino en las jugadas nunca me quebré yo domino mi parla" },
+            { time: 73.140, text: "nunca me quebré yo domino mi parla" },
+            { time: 75.080, text: "Mi polvo en la mesa blanco como perla" },
+            { time: 77.020, text: "Si te gusta puta tenes que pagarla" },
+            { time: 80.940, text: "Ya no pierdo el tiempo con toda esa mierda" },
+            { time: 81.560, text: "No me juegues mal que mis wachos se encargan" },
+            { time: 82.880, text: "Hace tiempo que me sigue esa bandida" },
+            { time: 84.860, text: "Por lo menos ahora vivo pa' contarla" },
+            { time: 86.860, text: "Éramos amigos pero nos peleamos" },
+            { time: 87.580, text: "Porque dos bandidos saben de ese mambo" },
+            { time: 90.460, text: "Ahora es más bandida y ya domina el rango" },
+            { time: 92.620, text: "Sabe bien que volveremos a encontrarnos" },
+            { time: 94.500, text: "Bandida, bandida" },
+            { time: 96.320, text: "No me odies porque llevo mala vida, hey vida" },
+            { time: 100.100, text: "Estoy llegando al final de mi partida, partida" },
+            { time: 104.180, text: "Déjame irte a buscar" },
+            { time: 106.000, text: "Déjame ir a algún bar" },
+            { time: 108.080, text: "Déjame dispararles" },
+            { time: 109.500, text: "Bandida, bandida" },
+            { time: 111.940, text: "No me odies porque llevo mala vida, hey vida" },
+            { time: 115.780, text: "Estoy llegando al final de mi partida, partida" },
+            { time: 118.500, text: "Déjame irte a buscar" },
+            { time: 121.720, text: "Déjame ir a algún bar" },
+            { time: 124.000, text: "Ella es una bandida, bandida" },
+            { time: 127.620, text: "Es mía, otro no la puede tener" },
+            { time: 130.480, text: "No la puede tener" },
+            { time: 132.500, text: "Y me mira, y me mira" },
+            { time: 135.380, text: "Te juro que siempre voy a caer" },
+            { time: 138.120, text: "Y voy a volver" },
+            { time: 138.840, text: "y voy a tenerte" },
+            { time: 139.560, text: "Bandida, bandida" },
+            { time: 143.160, text: "Decime cuando te volveré a ver" },
+            { time: 145.840, text: "(Cuando te volveré a ver)" },
+            { time: 148.000, text: "Nau, nau, nau" },
+            { time: 150.000, text: "Cuando estoy en mi cama dándole" },
+            { time: 153.280, text: "Esta matándome" },
+            { time: 155.500, text: "Bandida, bandida" },
+            { time: 158.780, text: "No me odies porque llevo mala vida, hey vida" },
+            { time: 162.540, text: "Estoy llegando al final de mi partida" },
+            { time: 163.900, text: "partida" },
+            { time: 165.400, text: "Déjame irte a buscar" },
+            { time: 168.560, text: "Déjame ir a algún bar" },
+            { time: 170.700, text: "Déjame dispararles" },
+            { time: 173.220, text: "Bandida" },
+            { time: 175.100, text: "bandida" },
+            { time: 177.140, text: "No me odies porque llevo mala vida, hey vida" },
+            { time: 179.900, text: "Estoy llegando al final de mi partida, partida" },
+            { time: 182.220, text: "Déjame irte a buscar" },
+            { time: 184.180, text: "Déjame ir a algún bar" },
+            { time: 186.000, text: "Déjame dispararles" }
         ]
     },
     {
@@ -223,64 +223,58 @@ let songs = [
         audioSrc: "audio/One of the girl.mp3",
         videoBgSrc: "videos/One of the girl.mp4",
         lyrics: [
-            { time: 12.0, text: "Lock me up and throw away the key" },
-            { time: 15.0, text: "He knows how to get the best out of me" },
-            { time: 16.0, text: "I'm no force for the world to see" },
-            { time: 19.0, text: "Trade my whole life just to be" },
-            { time: 25.0, text: "Tell nobody I control you" },
-            { time: 31.0, text: "I broke you just to own you" },
-            { time: 37.0, text: "They can't tell that I love you" },
-            { time: 43.0, text: "'Cause you're loyal, baby" },
-            { time: 49.0, text: "I love when you're submissive" },
-            { time: 55.0, text: "Love it when I break skin" },
-            { time: 61.0, text: "You feel pain without flinchin'" },
-            { time: 67.0, text: "So say it" },
-            { time: 73.0, text: "Give me tough love" },
-            { time: 79.0, text: "Leave me with nothin' when I come down" },
-            { time: 85.0, text: "My kinda love" },
-            { time: 91.0, text: "Push me and choke me 'til I pass out" },
-            { time: 97.0, text: "We don't gotta be in love, no" },
-            { time: 103.0, text: "I don't gotta be the one, no" },
-            { time: 109.0, text: "I just wanna be one of your girls" },
-            { time: 115.0, text: "Tonight (tonight)" },
-            { time: 121.0, text: "We don't gotta be in love, no" },
-            { time: 127.0, text: "I don't gotta be the one, no" },
-            { time: 133.0, text: "I just wanna be one of your girls" },
-            { time: 139.0, text: "Tonight (tonight), oh" },
-            { time: 145.0, text: "Push me down, hold me down" },
-            { time: 151.0, text: "Spit in my mouth while you turn me on" },
-            { time: 157.0, text: "I wanna take your light inside" },
-            { time: 163.0, text: "Dim me down, snuff me out" },
-            { time: 169.0, text: "Hands on my neck while you push it out" },
-            { time: 175.0, text: "And I'm screamin' out" },
-            { time: 181.0, text: "Give me tough love" },
-            { time: 187.0, text: "Leave me with nothin' when I come down" },
-            { time: 193.0, text: "My kinda love" },
-            { time: 199.0, text: "Force me and choke me 'til I pass out" },
-            { time: 205.0, text: "We don't gotta be in love, no" },
-            { time: 211.0, text: "I don't gotta be the one, no" },
-            { time: 217.0, text: "I just wanna be one of your girls" },
-            { time: 223.0, text: "Tonight (tonight)" },
-            { time: 229.0, text: "We don't gotta be in love, no" },
-            { time: 235.0, text: "I don't gotta be the one, no (oh)" },
-            { time: 241.0, text: "I just wanna be one of your girls" },
-            { time: 247.0, text: "Tonight, oh" },
-            { time: 253.0, text: "Lock me up and throw away the key" },
-            { time: 259.0, text: "He knows how to get the best out of me" },
-            { time: 265.0, text: "I'm no force for the world to see" },
-            { time: 271.0, text: "Trade my whole life just to be" },
-            { time: 277.0, text: "Top of the world but I'm still not free" },
-            { time: 283.0, text: "It's such a secret that I keep" },
-            { time: 289.0, text: "Until it's gone, I can never find peace" },
-            { time: 295.0, text: "Brace my whole life just to be" },
-            { time: 301.0, text: "We don't gotta be in love, no" },
-            { time: 307.0, text: "I don't gotta be the one, no" },
-            { time: 313.0, text: "I just wanna be one of your girls" },
-            { time: 319.0, text: "Tonight (tonight)" },
-            { time: 325.0, text: "We don't gotta be in love, no" },
-            { time: 331.0, text: "I don't gotta be the one, no (oh)" },
-            { time: 337.0, text: "I just wanna be one of your girls" },
-            { time: 343.0, text: "Tonight (ooh), oh" }
+            { time: 14.556, text: "[JENNIE KIM] LOCK ME UP AND THROW AWAY THE KEY" },
+            { time: 17.308, text: "HE KNOWS HOW TO GET THE BEST OUT OF ME" },
+            { time: 19.936, text: "I'M NO FORCE FOR THE WORLD TO SEE" },
+            { time: 22.564, text: "TRADE MY WHOLE LIFE JUST TO BE" },
+            { time: 37.245, text: "[ABEL] TELL NOBODY I CONTROL YOU" },
+            { time: 39.706, text: "I BROKE YOU JUST TO OWN YOU" },
+            { time: 42.500, text: "THEY CAN'T TELL THAT I LOVE YOU" },
+            { time: 46.129, text: "'CAUSE YOU'RE LOYAL, BABY" },
+            { time: 47.839, text: "I LOVE WHEN YOU'RE SUBMISSIVE" },
+            { time: 50.884, text: "YOU LOVE IT WHEN I BREAK SKIN" },
+            { time: 53.511, text: "YOU FEEL PAIN WITHOUT FLINCHIN'" },
+            { time: 56.473, text: "SO SAY IT" },
+            { time: 58.558, text: "[LILY ROSE] GIVE ME TOUGH LOVE" },
+            { time: 64.230, text: "LEAVE ME WITH NOTHIN' WHEN I COME DOWN" },
+            { time: 69.527, text: "MY KIND OF LOVE" },
+            { time: 75.283, text: "PUSH ME AND CHOKE ME 'TIL I PASS OUT" },
+            { time: 80.622, text: "WE DON'T GOTTA BE IN LOVE, NO" },
+            { time: 83.750, text: "I DON'T GOTTA BE THE ONE, NO" },
+            { time: 86.711, text: "I JUST WANNA BE ONE OF YOUR GIRLS TONIGHT" },
+            { time: 92.091, text: "WE DON'T GOTTA BE IN LOVE, NO" },
+            { time: 94.928, text: "I DON'T GOTTA BE THE ONE, NO" },
+            { time: 97.639, text: "I JUST WANNA BE ONE OF YOUR GIRLS TONIGHT, OH" },
+            { time: 116.533, text: "PUSH ME DOWN, HOLD ME DOWN" },
+            { time: 118.409, text: "SPIT IN MY MOUTH WHILE YOU TURN ME OUT" },
+            { time: 122.789, text: "I WANNA TAKE YOUR LIGHT INSIDE" },
+            { time: 127.293, text: "TEAR ME DOWN, SNUFF ME OUT" },
+            { time: 129.419, text: "HANDS ON MY NECK WHILE YOU PUSH IT UP" },
+            { time: 133.091, text: "AND I'M SCREAMIN' NOW" },
+            { time: 135.385, text: "[ABEL] GIVE ME TOUGH LOVE" },
+            { time: 141.266, text: "LEAVE ME WITH NOTHIN' WHEN I COME DOWN" },
+            { time: 146.563, text: "MY KIND OF LOVE" },
+            { time: 152.151, text: "FORCE ME AND CHOKE ME 'TIL I PASS OUT" },
+            { time: 158.157, text: "[LILY ROSE] WE DON'T GOTTA BE IN LOVE, NO" },
+            { time: 160.869, text: "I DON'T GOTTA BE THE ONE, NO" },
+            { time: 163.496, text: "I JUST WANNA BE ONE OF YOUR GIRLS TONIGHT (TONIGHT)" },
+            { time: 169.127, text: "WE DON'T GOTTA BE IN LOVE, NO" },
+            { time: 171.754, text: "I DON'T GOTTA BE THE ONE, NO (OH)" },
+            { time: 174.465, text: "I JUST WANNA BE ONE OF YOUR GIRLS TONIGHT, OH" },
+            { time: 182.265, text: "[JENNIE KIM] LOCK ME UP AND THROW AWAY THE KEY" },
+            { time: 184.559, text: "HE KNOWS HOW TO GET THE BEST OUT OF ME" },
+            { time: 187.353, text: "I'M NO FORCE FOR THE WORLD TO SEE" },
+            { time: 190.023, text: "TRADE MY WHOLE LIFE JUST TO BE" },
+            { time: 192.901, text: "TOP OF THE WORLD, BUT I'M STILL NOT FREE" },
+            { time: 195.528, text: "THIS IS A SECRET THAT I KEEP" },
+            { time: 198.406, text: "UNTIL IT'S GONE, I CAN NEVER FIND PEACE" },
+            { time: 200.867, text: "WASTE MY WHOLE LIFE JUST TO BE" },
+            { time: 207.332, text: "[LILY ROSE] WE DON'T GOTTA BE IN LOVE, NO" },
+            { time: 210.293, text: "I DON'T GOTTA BE THE ONE, NO" },
+            { time: 212.921, text: "I JUST WANNA BE ONE OF YOUR GIRLS TONIGHT (TONIGHT)" },
+            { time: 218.384, text: "WE DON'T GOTTA BE IN LOVE, NO" },
+            { time: 221.054, text: "I DON'T GOTTA BE THE ONE, NO (OH)" },
+            { time: 223.932, text: "I JUST WANNA BE ONE OF YOUR GIRLS TONIGHT (OH), OH" }
         ]
     },
     {
@@ -522,7 +516,7 @@ let songs = [
         title: "Ginseng Strip 2002",
         artist: "Yung Lean",
         album: "Unknown Death 2002",
-        albumArtUrl: "https://cdn.discordapp.com/attachments/1199096079707295836/1386514199273930823/ChatGPT_Image_Jun_23_2025_03_12_22_AM.png?ex=6859fb79&is=6858a9f9&hm=4265630e967f30f667e3d8255f33e3ea39d57a0f13d187c75705ca33fc3056f8&",
+        albumArtUrl: "https://i.ibb.co/G3PxrYDQ/525f6abd-57f9-4f68-a441-efe083332866.jpg",
         audioSrc: "audio/Ginseng Strip.mp3",
         videoBgSrc: "videos/Ginseng Strip.mp4",
         lyrics: [
@@ -1112,31 +1106,35 @@ playerPrevBtn.addEventListener('click', prevTrack);
             const lyricLines = lyricsContainer.querySelectorAll('.lyric-line');
             let currentLyricIndex = -1;
 
-            // Find the index of the last lyric that should be active
+            // Find the index of the lyric that should be active
+            // We want the lyric that has started but hasn't been superseded by the next one
             for (let i = 0; i < currentSong.lyrics.length; i++) {
-                if (currentTime >= currentSong.lyrics[i].time) {
+                const lyricTime = currentSong.lyrics[i].time;
+                const nextLyricTime = i < currentSong.lyrics.length - 1 ? currentSong.lyrics[i + 1].time : Infinity;
+                
+                // Current lyric is active if:
+                // 1. Current time is >= lyric start time
+                // 2. Current time is < next lyric start time (or there is no next lyric)
+                if (currentTime >= lyricTime && currentTime < nextLyricTime) {
                     currentLyricIndex = i;
-                } else {
                     break;
                 }
             }
             
             // Highlight the correct line and scroll if necessary
-            if (currentLyricIndex !== -1) {
-                lyricLines.forEach((line, index) => {
-                    if (index === currentLyricIndex) {
-                        if (!line.classList.contains('highlight')) {
-                            line.classList.add('highlight');
-                            // Smooth scroll to the highlighted line
-                            if (settings.playback.lyricsAuto) {
-                                line.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                            }
+            lyricLines.forEach((line, index) => {
+                if (index === currentLyricIndex) {
+                    if (!line.classList.contains('highlight')) {
+                        line.classList.add('highlight');
+                        // Smooth scroll to the highlighted line
+                        if (settings.playback.lyricsAuto) {
+                            line.scrollIntoView({ behavior: 'smooth', block: 'center' });
                         }
-                    } else {
-                        line.classList.remove('highlight');
                     }
-                });
-            }
+                } else {
+                    line.classList.remove('highlight');
+                }
+            });
         }
     });
 
